@@ -92,27 +92,29 @@ Es mucho más fresco, con esa geometria rayada da mucho más imagen de arte y em
 
 A continuación voy a mostrar diferentes imagenes de como quedaría el rediseño en un escritorio y movil y ya por ultimo explicaré porque el rediseño es así.
 
-![Método UX](img/parte1_web.png) 
-
 Pues a la hora de realizar este mockup de la página principal hemos seguido uno de los criterios que en mi opinión suele pasar más desapercibido y es el de más es menos. Y es que he querido darle a la web un aspecto minimalista en el que lo primero que ve el usuario es el menú y una imagen de portada donde se ve claramente el boton para comprar entradas de los eventos.
 
 Seguidamente se ve el botón por si el usuario tiene cualuier duda y quiere conversar con nosotros. Esto lo veo fundamendal para darle confianza al usuario y por ello se mantendra mientras hagamos scroll hacia abajo.
 
-![Método UX](img/parte2_web.png) 
+![Método UX](img/parte1_web.png) 
 
 Después de estos apartados, hemos utilizado el patrón de imagen y texto para exponer los próximos eventos, dandole prioridad total a estos, ya que están justo debajo de la hero. También para aumentar la experiencia de usuario, si tuviera alguna duda sobre el evento, al pasar el ratón por encima se gira la imagen y se mostaría más información de interés sobre el evento, facilitando así el conocer de que va el evento y si fuera necesario pinchar sobre el. Como comente anteriormente se sigue viendo el botón para chatear.
 
-![Método UX](img/parte3_web.png) 
+![Método UX](img/parte2_web.png) 
 
 En la sigiuente parte de la web, he puesto una sección en la que explicar brevemente quien son los que están detrás de la empresa y de que trata la empresa y la organización en sí.
 
-![Método UX](img/parte4_web.png) 
+![Método UX](img/parte3_web.png) 
 
 Por ultimo, al final de la web se puede ver un mapa para que los usuarios sepan donde nos encontramos y las diferentes formas que tienen para contactanos, inclusive un formulario para que se suscriban a nuestra newsletter y nuestras redes sociales.
 
-![Método UX](img/parte1_webmovil.png)
+![Método UX](img/parte4_web.png) 
 
 En la versión móvil es muy similar, unicamente se muestra el icono del chat mientras hacemos scroll, y está totalmente adaptada a cualquier tamaño de un dispositivo, por lo que simplemente con está mejora ya aumentaría muchisimo la calidad de la web.
+
+![Método UX](img/parte1_webmovil.png)
+
+
 
 
 
