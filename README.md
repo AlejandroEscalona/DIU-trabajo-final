@@ -61,8 +61,10 @@ Como pain points encontramos:
 Nota final del Usability Review: 55/100
 
 Si analizamos los puntos buenos y malos característicos de la página podemos observar que:
-- Puntos buenos: EL estilo y la simplicidad de la página es agradable para la vista, siendo no muy complicado navegar por ella al utilizar la tecnología de WordPress.
-- Puntos malos: La página apenas ofrece información sobre los precios que pueden suponer su principal atractivo, que es el alquilar un lugar donde poder trabajar junto con más gente. Además de la falta clara de información, también es muy repetitiva, repitiendo información cada vez que puede y poniendo el formulario de contacto al final de cada apartado. Además, la estructura del diseño en sí es un poco floja y no muy profesional.
+- Puntos buenos: La busqueda que tiene es bastante buena y siempre esta presente, el contacto con ellos es sencillo y siempre esta visible l poder descargar la revista.
+- Puntos malos: La página en primer lugar para la versión responsive es pesima, esta fatal adaptada y no creo que hayan hecho nada respecto a esta versión, por lo que ya estarian perdiendo practicamente todas las visitas que se hagan desde un dispositivo que no sea un pc. Por otro lado los colores seleccionados no hacen un alto contraste y en ocasiones ponen texto sobre imagenes muy densas lo que no permite leer con claridad. 
+
+En conclusión de este analisis tiene muchisimos puntos a mejorar.
 
 ![Revisión de usabilidad](Usability-review-yuzin.pdf)
 
@@ -70,41 +72,15 @@ Si analizamos los puntos buenos y malos característicos de la página podemos o
 
 ## Paso 2. UX Design  
 
+La propuesta de valor que pronpongo es el rediseño total de la página, y si el cliente estuviera de acuerdo el cambio de los colores corporativos. Además se le agregaria algunas funcionalidades como un chat en directo, diferentes páginas como preguntas frecuentes ya que para webs que se pueden realizar compras online suele haber bastantes preguntas muy similares, y también da confianza al usuario para que acabe comprando. El chat en directo también facilita el dar confianza al usuario, ya que personas que no esten muy aconstumbradas a realizar compras online les asegura que hay gente detrás a su disposición.
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
-----
-Hemos elegido hacer un POV
-| User            | Need          | Insight    |
-| :-------------: |:-------------:| :-----:    |
-| Persona turista en Granada que tiene un especial interés por la cultura arabe.     |Indagar más en el mundo arabe de Granada, la historia de la ciudad relacionada con la cultura arabe. | El usuario no desea contratar una visita guiada ya que supone una restricción de tiempo (horario y duración marcadas). Preferiría poder realizar la visita a su propio ritmo.     |
-| Persona que estudia la cultura arabe.     | Explorar cómo era el mundo arabe en la ciudad de Granada.       |   El usuario tiene un conocimiento avanzado de la cultura arabe y es difícil encontrar un guía a la altura de su conocimiento por ello prefiere poder visualizar cómo era la ciudad.    |
-| Persona estudiante o profesor de Arquitectura /Bellas Artes/Historia del arte en Granada que quiere disponer de una perspectiva visual de cómo ha sido Granada a lo largo de la historia. | Poder explicar y enseñar cómo hacían las diferentes estructuras, obras de arte y creatividades en la cultura nazarí.     |   Estos usuarios podrían recurrir a explicaciones clásicas en las que el profesor describe la escenografía, pero preferirían disponer de algún otro método más visual que pueda favorecer la comprensión y adquisición de los conocimientos. Los profesores pueden además estar incentivados a usar las nuevas tecnologías por parte de los centros en los que trabajan     |
-| Persona extranjera y/o con dificultades de oído o de comprensión | Poder realizar una visita guiada a su propio ritmo sin depender de otras personas | Estos usuarios pueden encontrar dificultades al realizar una visita guiada convencional, bien porque no disponen de guías en su idioma o porque su discapacidad no les permite comprender todo completamente y les da vergüenza interrumpir la dinámica de grupo para requerir una segunda explicación. Preferirían poder disponer de una forma de realizar la visita a su propio ritmo |
+También he optado por una gama cromatica similar a la que tiene, ya que me he basado en que el cliente no quiere modificar su gama de colores. Pero dandole mucha más importancia al negro, ya que suele ser un color que bien utilizado da mucho juego, y con el toque del color oro puede dar una imagen de calidad y lujo. 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
-![Método UX](P2/img/Scope_Canvas.png)
+La paleta de colores que he usado es la siguiente:
 
+![Método UX](img/paleta_colores.png) Paleta de colores
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
-
-![Método UX](P2/img/User_Task_Flow.png) 
-
-
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
-* Sitemap 
-![Método UX](P2/img/SiteMap.jpg) 
-* Labelling 
-![Método UX](P2/img/Labelling.png) 
-
-
-
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
-
-Para ver las imágenes con todos los prototipos [pulse aquí](https://github.com/AlejandroFrndz/DIU/tree/master/P2)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -146,63 +122,6 @@ Para ver las imágenes con todos los prototipos [pulse aquí](https://github.com
 
 
 ## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.d Usability Report
-----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 
