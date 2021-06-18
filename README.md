@@ -118,7 +118,7 @@ Hay ciertas modificaciones que se pueden hacer como dejar el menú superior esta
 
 1.Navegación y exploración de la aplicación:  
     **- Organizar y etiquetar las categorías del menú**  
-        Se realiza una agrupación correcta en las categorías del menú para no confundir al usuario y que se queden bien diferenciadas
+        Se realiza una agrupación correcta en las categorías del menú para no confundir al usuario y que se queden bien diferenciadas.                    
     **- Colocar el campo del carrito en una posición destacada**  
         Es vital que los usuarios puedan acceder al carrito y conocer que es lo que tienen en el en cada momento.
 
