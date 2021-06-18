@@ -82,43 +82,13 @@ La paleta de colores que he usado es la siguiente:
 
 -----
 
+También he creado un nuevo logo, ya que el anterior me parecía un poco anticuado para el nuevo rediseño web por lo que el nuevo logo es el siguiente: 
 
-## Paso 3. Mi UX-Case Study (diseño)
+![Método UX](img/nuevo_logo.png) Nuevo logotipo
 
-
-![Método UX](img/moodboard.png) 3.a Moodboard
------
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Es mucho más fresco, con esa geometria rayada da mucho más imagen de arte y emoción por lo que le viene mucho mejor a una marca que quiere vender eventos culturales. El logo estará con la geometria en negro y en azul dependiendo de donde se muestre.
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
