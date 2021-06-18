@@ -28,7 +28,7 @@ Por último una de las actividades que hemos podido aprender a realizar en la as
 
 Por concluir con todo lo expuesto anteriormente, comentar que son muchos los conocimientos que me llevó de la asignatura y que al principio no se le da mucho importancia o al menos a mi me pasaba pero conforme vas aplicando los conocimientos que se van adquiriendo conforme vas haciendo las diferentes prácticas te vas dando cuenta que el prestar atención a UX/IU/Accesibilidad puede ser la diferencia entre que una aplicación tenga éxito o no. Por lo que estoy muy contento de haber cursado esta asignatura y además que se puede aplicar a muchísimos campos.
 
-
+# PARTE II: Caso de estudio. Web YUZIN
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -37,7 +37,7 @@ Por concluir con todo lo expuesto anteriormente, comentar que son muchos los con
 
 En primer lugar hemos seleccionado a Elena, es una persona con pocas capacidades tecnologicas y poca experiencia con ellas, es reacia a su uso pero sabe que son muy necesarias. Le gusta mucho viajar y nos puede mostrar los problemas que los desarrolladores de la web no podríamos ver al ver su uso muy fácil.
 
-![Persona Elena](img/PersonaElena.png)
+![Persona Elena](img/persona_elena.jpg)
 
 En segundo lugar, hemos creado a Shay. La característica más relevante de Shay es que es una persona con dificultades de visión (dislexia) y que además es de otro país y no habla español. Gracias a esto podremos comprobar como de preparadas están las webs, tanto en contenido como en interfaz de usuario, para poder ser empleadas por personas con dificultades similares.
 
