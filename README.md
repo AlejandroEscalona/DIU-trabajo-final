@@ -29,6 +29,7 @@ Por último una de las actividades que hemos podido aprender a realizar en la as
 Por concluir con todo lo expuesto anteriormente, comentar que son muchos los conocimientos que me llevó de la asignatura y que al principio no se le da mucho importancia o al menos a mi me pasaba pero conforme vas aplicando los conocimientos que se van adquiriendo conforme vas haciendo las diferentes prácticas te vas dando cuenta que el prestar atención a UX/IU/Accesibilidad puede ser la diferencia entre que una aplicación tenga éxito o no. Por lo que estoy muy contento de haber cursado esta asignatura y además que se puede aplicar a muchísimos campos.
 
 
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
