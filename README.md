@@ -1,26 +1,17 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Final DIU
 
-Grupo: DIU2.TheThruster  Curso: 2020/21 
+Alumno: * :bust_in_silhouette:  Escalona García, Alejandro     :octocat:    @AlejandroEscalona 
+Curso: 2020/21 
 Updated: 8/2/2021
-
-Proyecto: 
-Visión Nazarí
 
 Descripción: 
 
-Aplicación para AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
-
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
-
-Miembros
- * :bust_in_silhouette:  Escalona García, Alejandro     :octocat:    @AlejandroEscalona
- * :bust_in_silhouette:  Fernández Alcaide, Alejandro     :octocat:  @AlejandroFndz
+Está práctica final consta de dos partes, en primer lugar una en la que debemos exponer y explicar como ha sido nuestra experciencia con los conocimientos de UX/Usabilidad y en segundo lugar deberemos aplicar todos los conocimientos aprendidos durante el curso al realizar un caso de uso de la web de YUZIN,
 
 ----- 
 
-# Proceso de Diseño 
+# PARTE I: MI EXPERIENCIA UX 
 
 ## Paso 1. UX Desk Research & Analisis 
 
