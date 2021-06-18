@@ -42,15 +42,30 @@ Para ayudarme a analizar esta web he creado a una persona que pueda facilitarme 
 
 --------- Elena ---------------
 
+### 1.c User Goals and Pain Points
+En vez de realizar un Journey Map con las distintas personas como hemos hecho en las prácticas, voy a analizar y describir los objetivos y puntos de dolor que tiene la persona y que me pueden ayudar a la hora de analizar la web.
 
+### Goals
+Los objetivos son:
+- Tener más conocimientos de cultura
+- Viajar más
+- Vivir nuevas experiencias
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  ![Revisión de usabilidad](P1/Usability-review.pdf)
->>> - Valoración final (numérica): 77
->>> - Comentario sobre la valoración: En términos generales la web tiene buena usabilidad, y a pesar de que nuestros usuarios creados tienen diferentes tipos de dificultades han podido navegar y usar la web con relativa facilidad. En el caso de Shay el gran desarrollo de la accesibilidad de la web ha provocado que pueda usarla con facilidad. Y en cuanto a Elena el que la web sea muy legible y clara le ha permitido avanzar hacia sus objetivos. Por concluir, comentar que la web ha sacado un 77/100 en el análisis de usabilidad por lo que consideramos que tiene buena nota pero tiene ciertos aspectos a mejorar.
+### Pain Points
+Como pain points encontramos:
+- No pasa el tiempo suficiente en familia
+- No le gusta la tecnología
+- No entiende bien la tecnologia
+
+### 1.d Usability Review
+Nota final del Usability Review: 55/100
+
+Si analizamos los puntos buenos y malos característicos de la página podemos observar que:
+- Puntos buenos: EL estilo y la simplicidad de la página es agradable para la vista, siendo no muy complicado navegar por ella al utilizar la tecnología de WordPress.
+- Puntos malos: La página apenas ofrece información sobre los precios que pueden suponer su principal atractivo, que es el alquilar un lugar donde poder trabajar junto con más gente. Además de la falta clara de información, también es muy repetitiva, repitiendo información cada vez que puede y poniendo el formulario de contacto al final de cada apartado. Además, la estructura del diseño en sí es un poco floja y no muy profesional.
+
+![Revisión de usabilidad](Usability-review-yuzin.pdf)
+
 
 
 ## Paso 2. UX Design  
