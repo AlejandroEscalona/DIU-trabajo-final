@@ -84,11 +84,19 @@ La paleta de colores que he usado es la siguiente:
 
 También he creado un nuevo logo, ya que el anterior me parecía un poco anticuado para el nuevo rediseño web por lo que el nuevo logo es el siguiente: 
 
-![Método UX](img/nuevo_logo.png) Nuevo logotipo
+![Método UX](img/nuevo_logo.png) 
+
+Nuevo logotipo
 
 Es mucho más fresco, con esa geometria rayada da mucho más imagen de arte y emoción por lo que le viene mucho mejor a una marca que quiere vender eventos culturales. El logo estará con la geometria en negro y en azul dependiendo de donde se muestre.
 
+A continuación voy a mostrar diferentes imagenes de como quedaría el rediseño en un escritorio y movil y ya por ultimo explicaré porque el rediseño es así.
 
+![Método UX](img/parte1_web.png) 
+![Método UX](img/parte2_web.png) 
+![Método UX](img/parte3_web.png) 
+![Método UX](img/parte4_web.png) 
+![Método UX](img/parte1_webmovil.png) 
 
 
 ## Paso 4. Evaluación 
