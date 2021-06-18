@@ -1,9 +1,10 @@
 # DIU21
 Prácticas Final DIU
 
-Alumno: * :bust_in_silhouette:  Escalona García, Alejandro     :octocat:    @AlejandroEscalona 
+Alumno: :bust_in_silhouette:  Escalona García, Alejandro
+
 Curso: 2020/21 
-Updated: 8/2/2021
+
 
 Descripción: 
 
@@ -13,24 +14,19 @@ Está práctica final consta de dos partes, en primer lugar una en la que debemo
 
 # PARTE I: MI EXPERIENCIA UX 
 
-## Paso 1. UX Desk Research & Analisis 
+En cuanto a mi experiencia con UX/IU/Usabilidad lo primero comentar que nunca había aprendido nada acerca de todo lo que se ha dado y estudiado en la asignatura, si que he oído hablar de ello, ya que cuando estuve trabajando en PcComponentes había un pequeño departamento de UX/UI pero siempre estaban muy apartados y a su bola y aparentemente para el resto de la empresa no hacían mucho por lo que en el mundo empresarial y desde mi experiencia parece que no están muy bien mirados los profesionales de este campo.
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+En cuanto a los conocimientos de la asignatura, lo que más me ha llamado la atención personalmente es el hecho de que poder hacer mucho más usable una aplicación web o un programa, me parece fascinante como con algún “pequeño” cambio sea tan drástico el uso de una aplicación. Por lo que ahora procedo a comentar los usos que le he podido dar a todos los conocimientos que he podido ir adquiriendo a lo largo del curso.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-![Tabla Comparativa](img/Tablacomparativa.PNG)
+Lo primero de todo que me pareció bastante relevante aunque quizás a priori no lo parece es lo de crear el “buyer persona” es decir la persona que puede adquirir o usar tu producto. A simple vista puede parecer no tan útil pero cuando se realiza y de verdad piensas en ponerte en el lugar de la persona creada ver muchos fallos que algunos muy simples pero de gran importancia, como puede ser el tamaño de la fuente, gestos en una aplicación móvil o usar un menú de navegación dentro de un web. Este último lo he podido vivir en primera persona ya que llevo trabajando 1 año en una empresa de desarrollo web y software en el que tenemos un ERP. Y el diseñador gráfico no suele tener muy en cuenta todos estos apartados que hemos visto en la asignatura. Lo cual hace que aún sean más útiles todos los conocimientos adquiridos. Gracias a lo de crear la persona pudimos mejorar un menú de un diseño web, ya que quizás para nosotros que estamos acostumbrados no era muy complejo pero para personas que no tienen tanta habilidad con los ordenadores o incluso en el menú responsive en el móvil le costaba bastante navegar por el.
 
-Las categorías contempladas en el análisis, que creemos relevantes para webs de estas características son:
+Otra de las cosas que ha tenido bastante repercusión en nuestras prácticas de la asignatura ha sido el task flow, en el que hemos ido desgranando todo el proceso desde que un usuario entra en la app hasta que se puede dar por terminado su uso. Gracias a esta acción hemos podido detectar muchas posibles mejoras que le podíamos dar como modificar el tipo de los botones, su tamaño e incluso las transiciones entre pantallas. Esto trasladado al mundo real, lo pude aplicar al proponerle a mi jefe realizar un task flow del ERP que tenemos en la empresa. Y después de exponerle los posibles puntos que se podían mejorar, realizamos diversas mejoras que incluso algunos clientes nos escribieron felicitandonos de los nuevos cambios, como puede ser el cambiar los tipos de botones y sus iconos y dividiendo grandes pasos en algunos más pequeños que sean más fáciles de seguir.
 
-Visualización desde el móvil → Puesto que muchas personas actualmente usan su dispositivo móvil para prácticamente todo, consideramos relevante que las webs presenten un diseño suficientemente responsive que permite una navegación cómoda con un teléfono.
+Otra actividad que a priori puede parecer que no sea muy relevante es la elección de los colores de nuestro sistema, puede parecer una elección por simples gustos de los colores pero detrás de ello hay mucho más, ya que dependiendo de la combinación de colores podemos reflejar unas emociones y unos valores diferentes, como por ejemplo nunca veremos un dentista que tenga como color principal de su imagen de marca al negro o rojo ya que no reflejan salud o higiene como son con el verde o azul. Esto por suerte el diseñador que tenemos en la empresa lo realiza bastante bien aún así nos fijamos bastante en el contraste de colores con el texto, ya que en algunas ocasiones los botones o títulos debemos cambiarlos de color y debemos estar siempre atentos a que sea muy distinguidos o personal como visión reducida o daltonicos podrían no verlo correctamente o ni siquiera verlo.
 
-Android/IOS → Se considera la existencia, o no, de una aplicación web para turismo de la ciudad que haya sido desarrollada para el ayuntamiento u otra entidad pública relacionada con la ciudad
+Por último una de las actividades que hemos podido aprender a realizar en la asignatura y de las más importantes y vistosas sobre todo es la realización de un mock up de la aplicación o web. Esto ayuda mucho antes de ponerte a desarrollar la app o web para ver los posibles fallos de diseño y analizar lo que queremos realizar y cómo queremos realizarlo. Ya que esto nos permite incluso comprobar cómo van a ser las transiciones y uso de una aplicación. Este tipo de actividad además de usarlo en las prácticas de esta asignatura, le dimos un valor real en la asignatura de Desarrollo de Software donde teníamos que crear una aplicación real, y que se viese un uso en un simulador móvil. En mi opinión fue fundamental ya que gracias a poder realizar previamente al desarrollo de un mock up de la app, pudimos modificar muchas ítem como los colores que teníamos previamente definidos, botones que antes eran desplegables o imágenes en las que había que pulsar y no quedaba claro su comportamiento además de que luego para la hora de desarrollarlo teníamos una imagen más clara de lo que queríamos al final. Esto también es fundamental para el mundo empresarial ya que a un cliente por norma general previo a firmar el desarrollo de alguna aplicación se le suele enseñar un previo para que apruebe el diseño y la web en general por lo que he podido reforzar el conocimiento de esta actividad también ejecutándola en el mundo laboral.
 
-Seguridad → Se contemplan aspectos quizás más técnicos (uso de https, mantenimiento de los certificados) pero de las que un navegador puede avisar a usuarios que, sin tener conocimiento técnico, pueden evitar el uso de la web (aviso de seguridad)
-
-Normativa de cookies → De acuerdo con la normativa vigente, se evalúa tanto que se avise del uso de cookies como que se permita la configuración de las cookies de terceros
-
+Por concluir con todo lo expuesto anteriormente, comentar que son muchos los conocimientos que me llevó de la asignatura y que al principio no se le da mucho importancia o al menos a mi me pasaba pero conforme vas aplicando los conocimientos que se van adquiriendo conforme vas haciendo las diferentes prácticas te vas dando cuenta que el prestar atención a UX/IU/Accesibilidad puede ser la diferencia entre que una aplicación tenga éxito o no. Por lo que estoy muy contento de haber cursado esta asignatura y además que se puede aplicar a muchísimos campos.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
