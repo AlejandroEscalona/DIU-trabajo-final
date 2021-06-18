@@ -114,7 +114,25 @@ En la versión móvil es muy similar, unicamente se muestra el icono del chat mi
 
 ![Método UX](img/parte1_webmovil.png)
 
+Hay ciertas modificaciones que se pueden hacer como dejar el menú superior estatico mientras el usuario hace scroll que también podría ser conveniente para facilitar la navegación por la web. Ahora explicaré los diferentes diseños y patrones que he podido consultar para poder aplicarlos al diseño.
 
+1.Navegación y exploración de la aplicación:  
+    **- Organizar y etiquetar las categorías del menú**  
+        Se realiza una agrupación correcta en las categorías del menú para no confundir al usuario y que se queden bien diferenciadas
+    **- Colocar el campo del carrito en una posición destacada**  
+        Es vital que los usuarios puedan acceder al carrito y conocer que es lo que tienen en el en cada momento.
+
+2.Registro:  
+    **- Ofrecer una utilidad clara antes de solicitar el registro**  
+        Una aplicación que impide ver sus funciones antes de registrarse, puede provocar desconfianza en los usuarios. La aplicación permite su visualización sin tener que registrarse. Si quieres hacer log-in, simplemente se pulsa el botón de arriba a la derecha.
+
+**Respecto a [ui-patterns](https://ui-patterns.com/) :**   
+    **- Autocomplete Design Pattern**  
+        Para las búsqueda es útil seguir el diseño de autocompletado, permitiendo a los usuarios realizar las búsquedas más rápidas. Para ello se van mostrando búsquedas o sugerencias para lo que el usuario ha escrito hasta ese momento.  
+    **- Chat Design Pattern**  
+        Es vital que los usuarios puedan chatear sin tener que salirse del sistema. El chat permite hablar de forma global con todos los usuarios del sistema y también de forma privada e individual con un usuario concreto. Para seguir este patrón es necesario proporcionar una ventana para el chat, una barra para enviar esos mensajes y un ventana que muestre dichos mensajes, será necesario que quede por encima del resto de funciones de la aplicación (para no tener que salir de esta) y mostrar de forma clara esa división entre el chat de todos los usuarios y los privados.
+    **- Menú hamburguesa**
+        Para que el menú sea totalmente accesible desde cualquier dispositivo a partir de cierto tamaño el menú será de tipo hamburguesa para que sea más usable a través del móvil.
 
 
 
