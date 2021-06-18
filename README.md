@@ -30,34 +30,19 @@ Por concluir con todo lo expuesto anteriormente, comentar que son muchos los con
 
 # PARTE II: Caso de estudio. Web YUZIN
 
-![Método UX](img/Persona.png) 1.b Persona
------
+## Paso 1. UX Desk Research & Analisis 
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+### 1.a Competitive Analysis
 
-En primer lugar hemos seleccionado a Elena, es una persona con pocas capacidades tecnologicas y poca experiencia con ellas, es reacia a su uso pero sabe que son muy necesarias. Le gusta mucho viajar y nos puede mostrar los problemas que los desarrolladores de la web no podríamos ver al ver su uso muy fácil.
+La web a analizar es [Yuzin](https://yuzin.com/), es una web de un club cultural como se puede ver en su logo, y en ella podemos ver la agenda cultural de diferentes zonas, espacios culturales y mucho más. A lo largo de la actividad iré desgranando su diseño y funcionalidad.
+
+Para ayudarme a analizar esta web he creado a una persona que pueda facilitarme el proceso de analisis ya que entre 2 perspectivas se pueden visualizar más errores. Ella es Elena de 53 años, es carnicera y actualmente vive en Granada y siente un gran interés por la cultura, a continuación se puede ver una imagen acerca de ella.
 
 ![Persona Elena](img/persona_elena.jpg)
 
-En segundo lugar, hemos creado a Shay. La característica más relevante de Shay es que es una persona con dificultades de visión (dislexia) y que además es de otro país y no habla español. Gracias a esto podremos comprobar como de preparadas están las webs, tanto en contenido como en interfaz de usuario, para poder ser empleadas por personas con dificultades similares.
-
-![Persona Shay](img/PersonaShay.png)
-
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
 --------- Elena ---------------
 
-![Mapa Elena](img/JourneyMapElena.PNG)
 
-En el mapa de Elena podemos ver, que la gran dificultad ha sido en encontrar la web adecuada, y un poco el uso. Aunque la web tiene muy trabajada la accesibilidad, la usabilidad no tanto. Por otro lado puede encontrar información util como aparcamientos y planes para hacer.
-
--------- Shay -------
-
-![Mapa Shay](img/MapShay.png)
-
-Con shay podemos ver una interacción poco común. A pesar de ser una persona joven, práticamente nativa digital que maneja sin problema la tecnología, su enfermeda hace que tenga otro tipo de dificultades y limitaciones que a menudo no son tenidas en cuenta en muchos productos/servicios/interfaces
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
