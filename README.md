@@ -42,7 +42,7 @@ Para ayudarme a analizar esta web he creado a una persona que pueda facilitarme 
 
 --------- Elena ---------------
 
-### 1.c User Goals and Pain Points
+### 1.b User Goals and Pain Points
 En vez de realizar un Journey Map con las distintas personas como hemos hecho en las prácticas, voy a analizar y describir los objetivos y puntos de dolor que tiene la persona y que me pueden ayudar a la hora de analizar la web.
 
 ### Goals
@@ -57,18 +57,22 @@ Como pain points encontramos:
 - No le gusta la tecnología
 - No entiende bien la tecnologia
 
-### 1.d Usability Review
+### 1.c Usability Review
 Nota final del Usability Review: 55/100
 
 Si analizamos los puntos buenos y malos característicos de la página podemos observar que:
 - Puntos buenos: La busqueda que tiene es bastante buena y siempre esta presente, el contacto con ellos es sencillo y siempre esta visible l poder descargar la revista.
 - Puntos malos: La página en primer lugar para la versión responsive es pesima, esta fatal adaptada y no creo que hayan hecho nada respecto a esta versión, por lo que ya estarian perdiendo practicamente todas las visitas que se hagan desde un dispositivo que no sea un pc. Por otro lado los colores seleccionados no hacen un alto contraste y en ocasiones ponen texto sobre imagenes muy densas lo que no permite leer con claridad. 
 
-En conclusión de este analisis tiene muchisimos puntos a mejorar.
+Otro tema a comentar es el número tan variado de suscripciones a los que los usuarios pueden optar, con esto pueden llegar a conseguir que el usuario tenga paralisis por analisis, ya que si tiene muchas opciones donde elegir acabe por no elegir ninguna por no saber cual escoger, para esto le propongo usar una estrategia que suele funcionar muy bien que se llama "El bueno, el feo y el malo". Esta estrategia consiste en poner uno que sea el feo que sirva de precio ancla, es decir será la opción más premium y muy muy caro, después está el malo que será el de precio más reducido y que tendrá pocos extras y después tenemos al bueno, que tiene muchos más extras que el malo y su precio será algo superior. Por lo que los usuarios normalmente elegirán ese, que será el que más nos conviene en cuanto a rentabilidad a la empresa.
+
+La conclusión de este analisis es que tiene muchisimos puntos a mejorar.
 
 ![Revisión de usabilidad](Usability-review-yuzin.pdf)
 
+### 1.d Accessibility Review
 
+En cuanto a accesibilidad la web no presenta ningún tipo de complemento para ayudar a personas que tengan algún tipo de dificultad. Por lo que proponemos encarecidamente que se pongan algunas opciones como un simple aumento de la fuente, con lo que a usuarios que no puedan leer bien todo el contenido se les pueda ayudar, opciones para personas que tengan problemas de audición y daltónicos.
 
 ## Paso 2. UX Design  
 
@@ -135,18 +139,35 @@ Hay ciertas modificaciones que se pueden hacer como dejar el menú superior esta
         Para que el menú sea totalmente accesible desde cualquier dispositivo a partir de cierto tamaño el menú será de tipo hamburguesa para que sea más usable a través del móvil.
 
 
+## Conclusión final 
+
+Como conclusión final de la revisión me gustaría destacar el apartado móvil ya que tal y como está actualmente la web en responsive es como si no tuvieran, ya que es totalmente inservible y por otro lado alguna opción de accesibilidad sería fundamental también. Ahora vamos a responder las preguntas sugeridas en el guión.
+ 
+ 
+- **¿Consideras que es adecuado?** Considero que era totalmente necesario realizar un análisis a la web, ya que la página actual tiene muchísimos puntos a mejorar y está bastante anticuada en cuanto a diseño y funcionalidades. La experiencia de usuario era mala, y da la sensación que la web está a medias sin acabar.
+ 
+- **¿Se ha aplicado bien el rediseño para mejorar la experiencia de usuario?** Sí, aunque el nuevo diseño tiene algunos aspectos a refinar, se irán haciendo test A/B con diferentes modificaciones para realmente comprobar que es lo que mejor funciona. Se ha creado un diseño actual y teniendo en cuenta las necesidades de los usuarios.
+ 
+- **¿Mejorarías algo?** Sin duda sí, tiene la falta de añadir diferentes idiomas a la web, el que sea responsive como comenté anteriormente es algo fundamental en el mundo actual y el pensar en usuarios que no tengan tantos conocimientos informáticos para modificar algunos ítems como botones.
 
 
-## Paso 4. Evaluación 
+## Referencias
 
+* UX Toolkit https://mgea.github.io/UX-DIU-Checklist/index.html
 
+* Pattern http://ui-patterns.com/patterns
 
-## Conclusión final / Valoración de las prácticas
+* Law UX https://lawsofux.com/
 
+* Colors https://coolors.co
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+* Accesability https://www.w3.org/WAI/test-evaluate/preliminary/
 
+* Feedback Capture Grid https://public-media.interaction-design.org/pdf/Feedback-Capture-Grid.pdf
 
+* Logo: https://brandmark.io/
+
+* Mockup: https://www.figma.com/
 
 
 
